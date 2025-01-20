@@ -14,6 +14,7 @@ items:
  - refactory-id/bootstrap-markdown
  - zuramai/mazer
  - mdmsoft/yii2-admin
+ - harsxv/tinystatus
 display_name: Made in Indonesia
 created_by: mabdh
 image: made-in-indonesia.png
